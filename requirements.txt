@@ -1,0 +1,2 @@
+discord~=1.0.1
+mcstatus~=5.1.1
